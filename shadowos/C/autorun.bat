@@ -1,0 +1,1 @@
+@call A,ShadowOS.bat %*
